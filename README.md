@@ -1,6 +1,6 @@
-# Git på svenska
+# Git en Français
 
-## Introduktion
+## Introduction
 
 Det dagliga språket för de olika kommandona i `git` (eller `jävel`) är
 på svenska ett enda stort svengelskakalas. Jag finner mig själv ofta
@@ -11,51 +11,50 @@ Detta dokument ämnar etablera en ren svensk jargong som kan användas
 på arbetsplatsen för att med fördel undvika pressade situationer med
 kollegor samt boskap.
 
-## Förslag
+## Proposition
 
 Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-| Verb        | Nuvarande bruk | Förslag       |
+| Verb        | Usage courrant | Proposition   |
 |-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
-| push        | pusha          | knuffa        |
-| fetch       | fetcha         | hämta         |
-| branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
-| rebase      | rebasa         | ympa          |
-| merge       | merga          | sammanfoga    |
-| squash      | squasha        | mosa          |
-| stash       | stasha         | gömma         |
-| tag         | tagga          | märka         |
-| cherry-pick | cherry-picka   | plocka russin |
-| amend       | amenda         | rätta till    |
-| blame       | blamea         | klandra       |
+| pull        | poule          | tirer         |
+| push        | pouche         | pousser       |
+| fetch       | fetcher        | rapporter     |
+| branch      | brancher       | fourcher      |
+| commit      | commiter       | sousmettre    |
+| rebase      | rebaser        | amputer       |
+| merge       | merger         | combinaison   |
+| squash      | squasher       | ecraser       |
+| stash       | stasher        | cacher        |
+| tag         | taguer         | étiquetter    |
+| cherry-pick | cherry-picker  | trier         |
+| amend       | amender        | corriger      |
+| blame       | blâmer         | blâmer        |
 
-| Substantiv   | Nuvarande bruk | Förslag     |
-|--------------|----------------|-------------|
-| git          | git            | jävel       |
-| repository   | repo           | förvaring   |
-| branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
-| stash        | stash          | gömma       |
-| tag          | tagg           | märke       |
+| Substantiv   | Usage courrant | Proposition       |
+|--------------|----------------|-------------------|
+| git          | git            | salaud            |
+| repository   | repo           | dépôt             |
+| branch       | branch         | branche           |
+| commit       | commit         | sousmission       |
+| pull request | pull request   | requête de tirage |
+| stash        | stache         | cachette          |
+| tag          | tagg           | étiquette         |
 
-## Exempel
-
-    - Kan du rycka grenen jag just ympade och knuffa till github?
-
-    - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
-
-    - Skicka en ryckbegäran när du är färdig med sammanfogningen!
-
-    - Låt oss plocka russin från mäster-grenen.
+## Exemples
+    - Pourrais tu tirer la branche que je vien d'amputer puis la pousser à github?
     
-    - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
+    - J'ai fourcher recement et sousmis les changement de ma cachette.
+    
+    - Envois une requete de tirage quand tu as fini avec la combinaison! 
 
-    - Mosa dina förbindelser innan du sammanfogar.
+    - Trions donc la branche-maître.
+
+    - Mince, j'ai malencontreusement forcer le poussage sur la branche maître. D:
+
+    - Ecrase mes sousmission avant de combiner.
 
 ## Dagligt bruk
 
